@@ -11,8 +11,6 @@
  <project name="ShevT/android_kernel_xiaomi_msm8998" path="kernel/xiaomi/msm8998" remote="gitlab" revision="pie-7.4" />
  <project name="Boos4721/android_device_xiaomi_msm8998-common" path="device/xiaomi/msm8998-common" remote="github" revision="dot-p" />
  <remove-project name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" />
- <project path="hardware/qcom/media-caf/msm8998" name="android_hardware_qcom_media" revision="lineage-16.0-caf-8998" remote="los" />
- <project path="hardware/qcom/audio-caf/msm8998" name="android_hardware_qcom_audio" revision="lineage-16.0-caf-8998" remote="los" />
- <project name="platform/hardware/qcom/display" path="hardware/qcom/display-caf/msm8998" revision="fbe777e4b2617a59e95fabcd3046023aae12c03d" remote="caf"/>
+ 
 </manifest>
 
