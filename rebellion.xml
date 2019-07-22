@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <remote  name="gitlab"
-     fetch="https://gitlab.com/" />
- 
  <remote fetch="https://source.codeaurora.org/quic/la/" name="caf" review="codeaurora.org"/>
 
  <project name="Boos4721/android_device_xiaomi_sagit" path="device/xiaomi/sagit" remote="github" revision="rebellion-p" />
