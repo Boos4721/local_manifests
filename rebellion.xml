@@ -6,7 +6,7 @@
  <project name="Boos4721/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="gitlab" revision="pie" />
  <project name="ShevT/XiaomiCustom" path="vendor/XiaomiCustom" remote="gitlab" revision="pie" />
  <project name="ShevT/android_kernel_xiaomi_msm8998" path="kernel/xiaomi/msm8998" remote="gitlab" revision="pie-7.4" />
- <project name="Boos4721/device_xiaomi_msm8998-common" path="device/xiaomi/msm8998-common" remote="github" revision="dot-p" />
+ <project name="Boos4721/device_xiaomi_msm8998-common" path="device/xiaomi/msm8998-common" remote="github" revision="rebellion-p" />
  <remove-project name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" />
  
 </manifest>
