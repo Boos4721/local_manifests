@@ -2,8 +2,8 @@
 <manifest>
 
  <project name="Boos4721/android_device_oneplus_fajita" path="device/xiaomi/fajita" remote="github" revision="dot-p" />
- <project name="Boos4721/vednor_oneplus_sdm845" path="vendor/oneplus" remote="gitlab" revision="pie" />
- <project name="Boos4721/android_kernel_oneplus_sdm845" path="kernel/oneplus/sdm845" remote="gitlab" revision="master" />
+ <project name="Boos4721/vednor_oneplus_sdm845" path="vendor/oneplus" remote="github" revision="pie" />
+ <project name="Boos4721/android_kernel_oneplus_sdm845" path="kernel/oneplus/sdm845" remote="github" revision="master" />
  <project name="Boos4721/android_device_oneplus_sdm845-common" path="device/oneplus/sdm845-common" remote="github" revision="lineage-16.0" />
  
 </manifest>
